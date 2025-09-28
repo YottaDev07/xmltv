@@ -1,0 +1,17 @@
+# Vercel Environment Variables
+# Add these in your Vercel dashboard under Project Settings > Environment Variables
+
+# Schedules Direct API Credentials
+SD_USERNAME=your_schedules_direct_username
+SD_PASSWORD=your_schedules_direct_password
+
+# Server Configuration
+SECRET_KEY=your_very_secure_secret_key_here
+PORT=3000
+
+# Cache Settings
+CACHE_TTL_HOURS=12
+EPG_DAYS=14
+
+# Optional: Custom domain (if you have one)
+# CUSTOM_DOMAIN=your-domain.com
