@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv source-info-url="https://schedulesdirect.org" source-info-name="SD-LR-OTA" generator-info-name="LR-EPG-NodeJS-1.0">
+  <channel id="98078">
+    <display-name>2.1 KETS-1</display-name>
+  </channel>
+  <channel id="44775">
+    <display-name>2.2 KETS-2</display-name>
+  </channel>
+  <channel id="30750">
+    <display-name>3.1 CATCHY</display-name>
+  </channel>
+  <programme start="20250928160000 -0400" stop="20250928170000 -0400" channel="98078">
+    <title lang="en">Test Show</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <desc lang="en">A description with special characters like &apos; and &quot; and &amp;.</desc>
+    <icon src="http://example.com/icon.png"/>
+    <episode-num system="dd_progid">EP123456789</episode-num>
+  </programme>
+</tv>
